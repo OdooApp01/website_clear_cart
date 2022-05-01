@@ -10,6 +10,7 @@
 
     'installable': True,
     'auto_install':False,
-    'price':'$0',
+    'price':'0',
+    'currency':'USD',
     'application':True
 }
